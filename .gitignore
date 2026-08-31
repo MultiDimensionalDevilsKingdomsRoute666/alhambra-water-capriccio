@@ -1,0 +1,9 @@
+node_modules/
+node_modules.partial/
+dist/
+.playwright-cli/
+output/
+preview/
+.npm-install.*.log
+*.local
+.DS_Store
